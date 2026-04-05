@@ -9,7 +9,11 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 
-[Live Demo](#) · [Report a Bug](../../issues) · [Request a Feature](../../issues)
+<br>
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=EF4444&labelColor=171717)](https://smart-unknown.github.io/saasflow-landing/) 
+[![Report Bug](https://img.shields.io/badge/Report_Bug-0a0a0a?style=for-the-badge&logo=github&logoColor=white&labelColor=171717)](../../issues) 
+[![Request Feature](https://img.shields.io/badge/Request_Feature-0a0a0a?style=for-the-badge&logo=github&logoColor=white&labelColor=171717)](../../issues)
 
 </div>
 
