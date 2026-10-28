@@ -11,7 +11,7 @@
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=EF4444&labelColor=171717)](https://smart-unknown.github.io/saasflow-landing/) 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=EF4444&labelColor=171717)](https://T9-source.github.io/saasflow-landing/) 
 [![Report Bug](https://img.shields.io/badge/Report_Bug-0a0a0a?style=for-the-badge&logo=github&logoColor=white&labelColor=171717)](../../issues) 
 [![Request Feature](https://img.shields.io/badge/Request_Feature-0a0a0a?style=for-the-badge&logo=github&logoColor=white&labelColor=171717)](../../issues)
 
@@ -90,7 +90,7 @@ No complex environments (Node.js or npm) required. The template is ready to run 
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/smart-unknown/saasflow-landing.git
+   git clone https://github.com/T9-source/saasflow-landing.git
    ```
 2. Open `index.html` in your preferred browser.
 3. Enjoy the experience!
